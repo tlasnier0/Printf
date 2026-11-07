@@ -6,11 +6,11 @@
 /*   By: tlasnier <tlasnier@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/09/19 23:49:25 by tlasnier          #+#    #+#             */
-/*   Updated: 2026/11/05 22:16:44 by tlasnier         ###   ########.fr       */
+/*   Updated: 2026/11/07 13:22:03 by tlasnier         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "../ft_printf.h"
 
 size_t	ft_strlen(const char *str)
 {
